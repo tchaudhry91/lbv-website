@@ -1,6 +1,6 @@
 ---
 title: Our Courses
-type: courses
+type: products
 image: img/lbv-logo-header-file.jpg
 heading: What we offer
 description: >-
